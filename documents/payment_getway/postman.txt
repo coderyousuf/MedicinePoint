@@ -1,0 +1,7 @@
+> Download Postman from https://www.postman.com/downloads/
+> Open Postman
+> Login there
+> Go to https://documenter.getpostman.com/view/3144084/TzXwGyxi
+> Press the button "Run In Postman"
+> See the collection
+> Click on the code icon (right side panel) to see the codes
